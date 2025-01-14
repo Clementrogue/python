@@ -25,7 +25,7 @@ run:
 
 # Lancer les tests unitaires
 test:
-	python -m unittest test.py
+	python3 -m unittest test.py
 
 # Nettoyer les fichiers inutiles
 clean:
